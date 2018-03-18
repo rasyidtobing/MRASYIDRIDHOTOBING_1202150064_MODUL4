@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MRASYIDRIDHOTOBING_1202150064_MODUL4</string>
+    <string name="list_mahasiswa">LIST MAHASISWA</string>
+    <string name="gambar">GAMBAR</string>
+    <string name="mulai_asynctask">Mulai AsyncTask</string>
+    <string name="list_nama_mahasiswa">List Nama Mahasiswa</string>
+    <string name="masukkan_url_gambar">Masukkan URL Gambar</string>
+    <string name="klik_untuk_mencari_gambar">Klik untuk mencari gambar</string>
+    <string name="cari_gambar">Cari Gambar</string>
+    <string-array name="listnama">
+        <item>RASYID</item>
+        <item>OJI</item>
+        <item>FARHAN</item>
+        <item>DENNES</item>
+        <item>AFRIZAL</item>
+        <item>SATRIA</item>
+        <item>FIKAR</item>
+        <item>DARU</item>
+        <item>HELMI</item>
+        <item>ADIB</item>
+    </string-array>
+</resources>
